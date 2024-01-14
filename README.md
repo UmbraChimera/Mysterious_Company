@@ -16,8 +16,8 @@ With some other text.
 
 ### v1.0.1
 
-This is cool too
-
-### v1.0.1
-
 This is cool
+
+### v1.0.2
+
+Added to Github
