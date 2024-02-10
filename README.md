@@ -18,6 +18,10 @@ With some other text.
 
 This is cool
 
-### v1.0.2
+### v1.0.2 - v1.0.9
 
-Added to Github
+Testing Mod Combinations
+
+### v1.0.10
+
+Removed LethalLoader because it's breaking things.
